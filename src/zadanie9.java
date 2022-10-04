@@ -10,7 +10,9 @@ public class zadanie9 {
         char LastInitial = LastName.charAt(0);
 
         System.out.println("imie" + FirstName);
-        System.out.println()
-
+        System.out.println("drugie imie" + MiddleName);
+        System.out.println("nazwisko" + LastName);
+        System.out.println(FirstInitial + MiddleInitial + LastInitial);
 
     }
+}
