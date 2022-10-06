@@ -1,3 +1,5 @@
+package v1;
+
 public class DaneOsobowe {
     public static void main(String[] args) {
         System.out.print("\" imie i nazwisko: Bartosz Basiaga \"\n");

@@ -1,3 +1,5 @@
+package v1;
+
 public class Firma {
     public static void main(String[] args) {
         int sprzedaz = 46000000;

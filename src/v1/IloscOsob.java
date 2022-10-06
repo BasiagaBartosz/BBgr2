@@ -1,3 +1,5 @@
+package v1;
+
 public class IloscOsob {
     public static void main(String[] args) {
 
